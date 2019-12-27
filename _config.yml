@@ -6,12 +6,12 @@ ios_app_id                                : 1234793120                          
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://swiitet.github.io/automatic-app-landing-pageasdfsadfsfdafsad.github.io/                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://swiitet.github.io/automatic-app-landing-pageasdfsadfsfdafsad.github.io/
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Test                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 12TL                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Test
+app_price                                 : 12TL
 app_description                           : Test
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
